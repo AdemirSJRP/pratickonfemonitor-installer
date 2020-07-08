@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="17.1.1" version="17.1.1" Modules="update" RootPath="." Language="pt_BR" Id="{94DA5314-6028-493D-BDA8-7FC737F0ACCF}">
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Update 1.0.1" Key="Name" Value="PratickoNfeMonitor"/>
+    <ROW Section="Update 1.0.1" Key="ProductVersion" Value="1.0.1" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="URL" Value="http://www.pratickosolucoes.com.br/pratickonfemonitorupdate/PratickoNfeMonitorUpdate.msi" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="Size" Value="PratickoNfeMonitorUpdate-SetupFiles\PratickoNfeMonitorUpdate.msi" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="SHA256" Value="PratickoNfeMonitorUpdate-SetupFiles\PratickoNfeMonitorUpdate.msi" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="MD5" Value="PratickoNfeMonitorUpdate-SetupFiles\PratickoNfeMonitorUpdate.msi" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="ServerFileName" Value="PratickoNfeMonitorUpdate.msi" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="RegistryKey" Value="HKUD\Software\Praticko Soluções\PratickoNfeMonitor\Version" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="Version" Value="1.0.1" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="UpdatedApplications" Value="PratickoNfeMonitor[1.0-1.0.1]" ValueLocId="-"/>
+    <ROW Section="Update 1.0.1" Key="Description" Value="Atualização para versão 1.0.1"/>
+    <ROW Section="Update 1.0.1" Key="Enhancement" Value="Inserido botão Configurar Atualizações&#13;&#10;Inserido botão Verificar Atualizações&#13;&#10;Exibição da versão correta do sistema"/>
+    <ROW Section="Update 1.0.1" Key="AutoCloseApplication" Value="[APPDIR]PratickoNfeMonitor.exe|;;NoRestart" ValueLocId="-"/>
+    <ROW Section="General" Key="MessageTitle" Value="PratickoNfeMonitor - Atualização" ValueLocId="-"/>
+    <ROW Section="General" Key="MessageBody" Value="Existe uma atualização disponível" ValueLocId="-"/>
+    <ROW Section="General" Key="MessageExpirationDate" Value="20712" ValueLocId="-"/>
+    <ATTRIBUTE name="OutputFileName" value=".txt"/>
+  </COMPONENT>
+</DOCUMENT>
